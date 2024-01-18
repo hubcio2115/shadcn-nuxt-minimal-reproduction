@@ -1,0 +1,4 @@
+{
+  "$schema": "https://json.schemastore.org/jsconfig.json",
+  "extends": "../.nuxt/tsconfig.server.json"
+}
